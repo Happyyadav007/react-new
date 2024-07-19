@@ -1,0 +1,9 @@
+.header-right{
+    display: flex;
+    right: 150px;
+    position: absolute;
+}
+.main-page{
+    display: flex;
+    background-color: #f9fafa;
+}
